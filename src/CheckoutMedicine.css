@@ -1,0 +1,30 @@
+.checkoutMedicine {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.checkoutMedicine__info {
+  padding: 50px;
+}
+
+.checkoutMedicine__info button {
+  background: #f0c14b;
+  border: 1px solid;
+  border-color: #a88734;
+  margin-top: 3px;
+  color: #111;
+  max-height: 100px;
+  border-radius: 5px;
+}
+
+.checkoutMedicine__image {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.checkoutMedicine__title {
+  font-size: 18px;
+  font-weight: 800;
+}

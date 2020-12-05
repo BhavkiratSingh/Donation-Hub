@@ -1,0 +1,15 @@
+.footer {
+  bottom: 0;
+  padding: 2%;
+  align-items: center;
+  background-color:  rgb(26, 184, 110);
+  /* rgb(48, 180, 130); */
+  /* position: sticky; */
+  z-index: 10;
+  border-radius: 5px 5px 0 0;
+  color: whitesmoke;
+}
+
+.rights p{
+  text-align: center;
+}
